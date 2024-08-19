@@ -1,0 +1,15 @@
+{
+  "name": "exemplo_17",
+  "version": "1.0.0",
+  "description": "Trabalhando com arry e bliblioteca math",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Helena",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
